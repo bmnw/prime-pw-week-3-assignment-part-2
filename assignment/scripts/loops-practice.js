@@ -65,7 +65,7 @@ console.log('---- 3. While loop ----');
 console.log('Some stars using while:');
 
 let index = 0;
-while(index<5){
+while(index<stars.length){
   console.log(stars[index]);
   index += 1;
 }
